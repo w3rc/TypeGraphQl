@@ -1,6 +1,7 @@
 yarn-error.lock
 yarn.lock
 
-node-modules/
 build/
 .vscode
+node_modules
+
